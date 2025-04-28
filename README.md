@@ -1,0 +1,2 @@
+# egu25_gempy_workshop
+EGU25_Gempy_Workshop
