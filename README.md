@@ -48,6 +48,9 @@ Make sure to have the following before the workshop begins:
 
 Here are the links to colab notebooks we will use in the workshop:
 
+[Modeling example step-by-step](https://drive.google.com/file/d/1sL5ZEMmP141Qv0r55flNqFqe4ENJXuFB/view)
+[Hands on modeling example](https://drive.google.com/file/d/1MXb9YjdOvQlmrz8Ii-pIFmx-HhJqyw6r/view?usp=sharing)
+
 ---
 
 ## 🔗 [EGU Session Description](https://meetingorganizer.copernicus.org/EGU25/session/53630)
@@ -56,7 +59,9 @@ Here are the links to colab notebooks we will use in the workshop:
 
 ## 🔗 GemPY Resources 
 
-- []
+[Official documentation page](https://www.gempy.org/)
+[Github pages](https://github.com/gempy-project/gempy)
+[Video tutorials](https://docs.gempy.org/tutorials/z_other_tutorials/video_tutorial_model_1.html#sphx-glr-tutorials-z-other-tutorials-video-tutorial-model-1-py)
 
 ---
 
