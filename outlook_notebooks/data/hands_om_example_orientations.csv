@@ -1,0 +1,15 @@
+X,Y,Z,azimuth,dip,polarity,formation
+350,100,900,90,0,1,Sandstone
+350,100,800,90,0,1,Siltstone
+350,100,790,90,10,1,Claystone
+350,100,650,90,10,1,Shale
+350,100,500,90,40,1,Limestone
+350,100,350,90,40,1,Dolostone
+350,100,200,90,-80,1,FaultA
+775,100,900,90,0,1,Sandstone
+775,100,800,90,0,1,Siltstone
+775,100,740,90,10,1,Claystone
+775,100,600,90,10,1,Shale
+775,100,475,90,40,1,Limestone
+775,100,325,90,40,1,Dolostone
+775,100,525,90,-80,1,FaultB

@@ -1,0 +1,17 @@
+X,Y,Z,formation
+350,100,900,Sandstone
+350,100,800,Siltstone
+350,100,790,Claystone
+350,100,650,Shale
+350,100,500,Limestone
+350,100,350,Dolostone
+350,100,200,FaultA
+775,100,900,Sandstone
+775,100,800,Siltstone
+775,100,740,Claystone
+775,100,600,Shale
+775,100,475,Limestone
+775,100,325,Dolostone
+775,100,525,FaultB
+
+
