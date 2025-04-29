@@ -14,32 +14,30 @@ This interactive course is designed for both beginners and those with some exper
 
 ## 🧰 Prerequisites
 
-Make sure to have the following before the workshop begins:
-
-- A GitHub account: [Sign Up](https://github.com/join)
-- A Google account to access [Google Colab](https://colab.google/)
+There are no prerequisites to follow this workshop. A Google Account to create your personal Colab notebook is recommended.
+([Google Colab](https://colab.google/))
 ---
 
 
 
 ## 📂 Workshop Structure
 
-### 1. Introduction and theoretical background (20 min)
+### 1. Introduction and theoretical background 
 - An introduction to the principles behind implicit structural geological modeling.
 - Showcasing some real word examples.
 
-### 2. Building a model step-by-step (25 min)
+### 2. Building a model step-by-step 
 - A step-by-step guide to building a basic geological model using GemPy.
 - Participants can follow notebook on colab
 
-### 3. Build your own model or experiment with provided model (20 min)
+### 3. Build your own model or experiment with provided model
 - Participants can create their own model
 - Answer questions 
 
-### 4. Open-Source Project – How to get help, contribute, etc. (10 min)
+### 4. Open-Source Project – How to get help, contribute, etc. 
 - An overview of GemPy's development, community, and opportunities for contribution.
 
-### 5. Outlook and advanced applications (30 minutes)
+### 5. Outlook and advanced applications 
 - Exploration of the wide-ranging applications of GemPy in various geoscientific fields.
 - Coding examples for advanced functionalities and examples from publications.
 ---
@@ -49,6 +47,7 @@ Make sure to have the following before the workshop begins:
 Here are the links to colab notebooks we will use in the workshop:
 
 [Modeling example step-by-step](https://drive.google.com/file/d/1sL5ZEMmP141Qv0r55flNqFqe4ENJXuFB/view)
+
 [Hands on modeling example](https://drive.google.com/file/d/1MXb9YjdOvQlmrz8Ii-pIFmx-HhJqyw6r/view?usp=sharing)
 
 ---
@@ -60,14 +59,13 @@ Here are the links to colab notebooks we will use in the workshop:
 ## 🔗 GemPY Resources 
 
 [Official documentation page](https://www.gempy.org/)
+
 [Github pages](https://github.com/gempy-project/gempy)
+
 [Video tutorials](https://docs.gempy.org/tutorials/z_other_tutorials/video_tutorial_model_1.html#sphx-glr-tutorials-z-other-tutorials-video-tutorial-model-1-py)
 
 ---
 
-## 🧑‍🏫 Instructor
-
----
 
 ## ⭐ Feedback
 
