@@ -14,9 +14,10 @@ This interactive course is designed for both beginners and those with some exper
 
 ## 🧰 Prerequisites
 
+There are no prerequisites to follow this workshop. A Google Account to create your personal copy of the provided Colab notebooks is recommended.
 
-There are no prerequisites to follow this workshop. A Google Account to create your personal Colab notebook is recommended.
 ([Google Colab](https://colab.google/))
+
 ---
 
 
