@@ -20,8 +20,6 @@ There are no prerequisites to follow this workshop. A Google Account to create y
 
 ---
 
-
-
 ## 📂 Workshop Structure
 
 ### 1. Introduction and theoretical background 
@@ -72,7 +70,7 @@ Here are the links to colab notebooks we will use in the workshop:
 ## ⭐ Feedback
 
 We’d love to hear what you think!  
-Please fill out our [feedback form](https://example.com/feedback) after the workshop.
+Please fill out our [feedback form](https://forms.gle/kKCFtkbs61UhZ9Sh9) after the workshop.
 
 ---
 
