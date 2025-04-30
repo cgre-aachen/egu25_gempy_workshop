@@ -1,6 +1,6 @@
 # 🚀 EGU GemPy workshop
 
-Welcome to the **Build your own structural geological models using GemPy**!  
+Welcome to **Build your own structural geological models using GemPy**!  
 This interactive course is designed for both beginners and those with some experience in geological modeling. This README contains all the information and resources you'll need before, during, and after the workshop.
 
 ---
