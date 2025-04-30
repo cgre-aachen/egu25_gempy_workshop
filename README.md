@@ -54,7 +54,7 @@ Here are the links to colab notebooks we will use in the workshop:
 
 
 
-## 🔗 GemPY Resources 
+## 🔗 GemPy Resources 
 
 [Official documentation page](https://www.gempy.org/)
 
