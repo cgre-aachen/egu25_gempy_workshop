@@ -16,8 +16,6 @@ This interactive course is designed for both beginners and those with some exper
 
 There are no prerequisites to follow this workshop. A Google Account to create your personal copy of the provided Colab notebooks is recommended.
 
-([Google Colab](https://colab.google/))
-
 ---
 
 ## 📂 Workshop Structure
